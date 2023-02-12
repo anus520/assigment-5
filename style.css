@@ -1,0 +1,19 @@
+.space {
+    text-align: center;
+    width: 100%; 
+    background-color: red;
+    display: flex;
+    justify-content: space-between;
+}
+
+.space p {
+    width: 100px;
+    height: 60px;
+    background-color: aqua;
+    text-align: center;
+    border: 1px solid #000;
+}
+
+.big-space {
+    width: 100% !important;
+}
